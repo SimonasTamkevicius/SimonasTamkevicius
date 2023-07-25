@@ -19,7 +19,7 @@ I believe in continuous learning and enjoy exploring new technologies and framew
 
 ## 📝 Projects
 
-- Ecommerce Frontent - Ecommerce website utilizing React context | Ecommerce React Website((https://github.com/SimonasTamkevicius/Ecommerce-react-website))
+- Ecommerce Frontend - Ecommerce website utilizing React context | [GitHub Repo](https://github.com/SimonasTamkevicius/Ecommerce-react-website)| [Live Demo](https://ecommerce-react-website-six.vercel.app)
 - **Project 2** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
 - **Project 3** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
 
