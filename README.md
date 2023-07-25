@@ -1,44 +1,27 @@
-### Hi there 👋
-
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Simonas 👋
 
 ![Profile Banner](https://your-image-link.com/banner.png)
 
-I'm a passionate Full Stack Web Developer with [X] years of experience in creating and implementing innovative web solutions. I enjoy tackling complex problems and turning ideas into real, functional applications. My expertise lies in front-end and back-end development, along with a keen eye for user experience and design.
+I'm a passionate Full Stack Web Developer. I enjoy tackling complex problems and turning ideas into real, functional applications. My expertise lies in front-end and back-end development, along with a keen eye for user experience and design.
 
 ## 🚀 Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Angular
-- **Backend:** Node.js, Express, Python, Django, Ruby on Rails
-- **Database:** MySQL, MongoDB, PostgreSQL, Firebase
-- **DevOps:** Git, GitHub Actions, CI/CD, Heroku, AWS, Docker
-- **Testing:** Jest, Mocha, Chai, Cypress
-- **UI/UX:** Wireframing, Prototyping, Responsive Design
-- **Tools:** VSCode, Webpack, npm, Yarn, Postman
-
-## 💼 Work Experience
-
-- **Company XYZ** - Full Stack Web Developer | [Date Start] to [Date End]
-  - Developed and maintained responsive web applications using React and Node.js.
-  - Collaborated with cross-functional teams to implement new features and improvements.
-  - Conducted code reviews and mentored junior developers.
-
-- **Freelance Web Developer** | [Date Start] to [Date End]
-  - Worked with clients to understand their needs and deliver tailored web solutions.
-  - Designed and developed custom WordPress themes for various businesses.
-  - Optimized website performance and implemented SEO best practices.
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, TailwindCSS
+- **Backend:** Node.js, Express, Python
+- **Database:** MongoDB
+- **DevOps:** Git, GitHub, Heroku
+- **Tools:** VSCode, npm, Postman, Studio3T
 
 ## 🌱 Currently Learning
 
 I believe in continuous learning and enjoy exploring new technologies and frameworks. Currently, I'm focused on:
 
-- [Technology/Framework 1]
-- [Technology/Framework 2]
-- [Technology/Framework 3]
+- Web3 Developement
+- Building Crypto Currencies
 
 ## 📝 Projects
 
-- **Project 1** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
+- Ecommerce Frontent - Ecommerce website utilizing React context | Ecommerce React Website((https://github.com/SimonasTamkevicius/Ecommerce-react-website))
 - **Project 2** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
 - **Project 3** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
 
