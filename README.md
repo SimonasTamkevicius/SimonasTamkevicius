@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Web Developer. I enjoy tackling complex problems and turning ideas into real, functional applications. My expertise lies in front-end and back-end development, along with a keen eye for user experience and design.
 
 ## 🚀 Skills
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, TailwindCSS, EJS
+- **Frontend:** HTML5 #E34F26, CSS3, JavaScript (ES6+), React, Bootstrap, TailwindCSS, EJS
 - **Backend:** Node.js, Express, Python
 - **Database:** MongoDB
 - **DevOps:** Git, GitHub, Heroku
