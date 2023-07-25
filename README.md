@@ -19,8 +19,6 @@ I believe in continuous learning and enjoy exploring new technologies and framew
 ## 📝 Projects
 
 - Ecommerce Frontend - Ecommerce website utilizing React context | [GitHub Repo](https://github.com/SimonasTamkevicius/Ecommerce-react-website) | [Live Demo](https://ecommerce-react-website-six.vercel.app)
-- **Project 2** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
-- **Project 3** - Brief project description or tagline | [GitHub Repo](link-to-repo) | [Live Demo](link-to-demo)
 
 ## 📫 Let's Connect
 
@@ -29,11 +27,3 @@ I'm always open to interesting projects, collaborations, and networking. You can
 - Email: [simonas.ta@icloud.com](mailto:simonas.ta@icloud.com)
 - LinkedIn: [Let's connect!](https://www.linkedin.com/in/simonas-ta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBp4PMd%2FPSwqGeT8eWHz2mg%3D%3D)
 - Personal Website: [www.simonas.com](https://simonast-react-portfolio-simonastamkevicius.vercel.app)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimonasTamkevicius&show_icons=true&count_private=true)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SimonasTamkevicius)
