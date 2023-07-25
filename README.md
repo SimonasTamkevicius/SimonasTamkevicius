@@ -27,7 +27,7 @@ I believe in continuous learning and enjoy exploring new technologies and framew
 
 I'm always open to interesting projects, collaborations, and networking. You can reach me through:
 
-- Email: [Reach out](mailto:simonas.ta@icloud.com)
+- Email: [simonas.ta@icloud.com](mailto:simonas.ta@icloud.com)
 - LinkedIn: [Let's connect!](https://www.linkedin.com/in/simonas-ta?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBp4PMd%2FPSwqGeT8eWHz2mg%3D%3D)
 - Personal Website: [www.simonas.com](https://simonast-react-portfolio-simonastamkevicius.vercel.app)
 
