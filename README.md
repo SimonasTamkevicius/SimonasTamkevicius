@@ -3,8 +3,8 @@
 I'm a passionate Full Stack Web Developer. I enjoy tackling complex problems and turning ideas into real, functional applications. My expertise lies in front-end and back-end development, along with a keen eye for user experience and design.
 
 ## 🚀 Skills
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/[html5].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/[html5].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/html5.svg" />
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, TailwindCSS, EJS
 - **Backend:** Node.js, Express, Python
 - **Database:** MongoDB
