@@ -1,7 +1,5 @@
 # Hello, I'm Simonas 👋
 
-![Profile Banner](https://your-image-link.com/banner.png)
-
 I'm a passionate Full Stack Web Developer. I enjoy tackling complex problems and turning ideas into real, functional applications. My expertise lies in front-end and back-end development, along with a keen eye for user experience and design.
 
 ## 🚀 Skills
