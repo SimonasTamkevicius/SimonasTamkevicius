@@ -35,7 +35,7 @@ I'm always open to interesting projects, collaborations, and networking. You can
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimonasTamkevicius&show_icons=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 
