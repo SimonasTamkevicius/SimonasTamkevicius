@@ -4,10 +4,11 @@ I'm a passionate Full Stack Web Developer. I enjoy tackling complex problems and
 
 ## 🚀 Skills
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, TailwindCSS, EJS
-- **Backend:** Node.js, Express, Python
+- **Backend:** Node.js, Express, Python, mongoose
 - **Database:** MongoDB
 - **DevOps:** Git, GitHub, Heroku
 - **Tools:** VSCode, npm, Postman, Studio3T
+- **Other Languages:** C, Java
 
 ## 🌱 Currently Learning
 
