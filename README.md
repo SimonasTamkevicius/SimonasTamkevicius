@@ -19,7 +19,7 @@ I believe in continuous learning and enjoy exploring new technologies and framew
 
 ## 📝 Projects
 
-- Ecommerce Frontend - Ecommerce website utilizing React context | [GitHub Repo](https://github.com/SimonasTamkevicius/Ecommerce-react-website) | [Live Demo](https://ecommerce-bead-store.onrender.com/)
+- Ecommerce Frontend - Ecommerce website using the MERN stack | [GitHub Repo](https://github.com/SimonasTamkevicius/Ecommerce-react-website) | [Live Demo](https://ecommerce-bead-store.onrender.com/)
 
 ## 📫 Let's Connect
 
