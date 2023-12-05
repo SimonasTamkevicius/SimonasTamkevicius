@@ -19,7 +19,10 @@ I believe in continuous learning and enjoy exploring new technologies and framew
 
 ## 📝 Projects
 
-- Ecommerce Full Stack - Ecommerce website using the MERN stack | [GitHub Repo](https://github.com/SimonasTamkevicius/Ecommerce-react-website) | [Live Demo](https://ecommerce-bead-store.onrender.com/)
+- Ecommerce Full Stack - Ecommerce website using the MERN stack and Stripe API | [GitHub Repo](https://github.com/SimonasTamkevicius/Ecommerce-react-website) | [Live Demo](https://ecommerce-bead-store.onrender.com/)
+- Barber Booking App - An app for booking and managing appointments | [GitHub Repo](https://github.com/SimonasTamkevicius/Barber-booking-frontend) | [Live Demo](https://barber-booking-orpin.vercel.app)
+- Comilla Inc. Website - A website for a electrical contracting company | [GitHub Repo](https://github.com/SimonasTamkevicius/comilla-website) | [Live Demo](https://comillainc.com)
+- Personal Portfolio Website - Portfolio website build using React | [GitHub Repo](https://github.com/SimonasTamkevicius/Personal-Portfolio-2.0) | [Live Demo](https://developedbysimon.ca)
 
 ## 📫 Let's Connect
 
