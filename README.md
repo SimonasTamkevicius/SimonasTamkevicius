@@ -15,7 +15,6 @@ I'm a passionate Full Stack Web Developer. I enjoy tackling complex problems and
 I believe in continuous learning and enjoy exploring new technologies and frameworks. Currently, I'm focused on:
 
 - Web3 Developement
-- Building Crypto Currencies
 
 ## 📝 Projects
 
